@@ -1,0 +1,9 @@
+file_format: "1"
+id: numpad
+name: Custom Numpad
+type: shield
+url: https://github.com/ryan-bgriffiths/zmk-config-numpad
+requires:
+  - xiao_ble
+features:
+  - keys
