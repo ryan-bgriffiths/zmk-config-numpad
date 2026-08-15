@@ -22,3 +22,6 @@ include:
   - board: xiao_ble
     shield: numpad
     snippet: zmk-usb-logging
+  - board: xiao_ble
+    shield: tester_xiao
+    artifact-name: xiao_ble_hardware_test
